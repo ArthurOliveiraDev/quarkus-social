@@ -1,4 +1,4 @@
-package io.github.arthurdev.socialrest.dto;
+package io.github.arthurdev.rest;
 
 import java.util.Collection;
 import java.util.List;

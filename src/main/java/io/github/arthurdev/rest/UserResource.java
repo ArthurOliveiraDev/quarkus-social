@@ -1,11 +1,10 @@
-package io.github.arthurdev.socialrest;
+package io.github.arthurdev.rest;
 
 import java.util.Set;
 
 import io.github.arthurdev.domain.model.User;
 import io.github.arthurdev.domain.reposiroty.UserRepository;
-import io.github.arthurdev.socialrest.dto.CreateUserRequest;
-import io.github.arthurdev.socialrest.dto.ResponseError;
+import io.github.arthurdev.dto.CreateUserRequest;
 import io.quarkus.hibernate.orm.panache.PanacheQuery;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;

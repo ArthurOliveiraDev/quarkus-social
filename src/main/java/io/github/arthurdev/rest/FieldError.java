@@ -1,4 +1,4 @@
-package io.github.arthurdev.socialrest.dto;
+package io.github.arthurdev.rest;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
