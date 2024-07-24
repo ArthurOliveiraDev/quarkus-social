@@ -4,7 +4,8 @@ import java.util.Set;
 
 import io.github.arthurdev.domain.model.User;
 import io.github.arthurdev.domain.reposiroty.UserRepository;
-import io.github.arthurdev.dto.CreateUserRequest;
+import io.github.arthurdev.rest.dto.CreateUserRequest;
+import io.github.arthurdev.rest.dto.ResponseError;
 import io.quarkus.hibernate.orm.panache.PanacheQuery;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;

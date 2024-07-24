@@ -1,4 +1,4 @@
-package io.github.arthurdev.rest;
+package io.github.arthurdev.rest.dto;
 
 import java.util.Collection;
 import java.util.List;

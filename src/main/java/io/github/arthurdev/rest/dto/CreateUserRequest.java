@@ -1,4 +1,4 @@
-package io.github.arthurdev.dto;
+package io.github.arthurdev.rest.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
