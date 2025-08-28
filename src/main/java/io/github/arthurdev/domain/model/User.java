@@ -22,6 +22,6 @@ public class User{
     @NotNull
     private Integer age;
 
-    jhafhjfhjbfAIHBfj
+    private String paulo;
 
 }
